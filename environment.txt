@@ -1,0 +1,9 @@
+name: JupyterLab
+dependencies:
+- python=3.8
+- pip:
+  - jupyter
+  - matplotlib
+  - pandas
+  - bokeh
+  
