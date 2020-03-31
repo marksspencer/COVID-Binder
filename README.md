@@ -16,5 +16,5 @@ A couple of things:
    4.2 The **environment.txt** is to enable the virtual environment, called **JupyterLab** 
    4.3 The **requirements.txt** is to insure the *Binder* container has the correct python modules, like *pandas* & *bokeh* 
 5. the use of **Binder** (https://mybinder.org) allows the *Jupyter Notebook* to be shared online with the correct URL 
-   5.1 The use of **Binder** appears to be one-way: *BinderHub* loads the container from the GitHub repository, but changes don't appear to be saved *BACK* 
+   5.1 The use of **Binder** appears to be one-way: *BinderHub* loads the container from the GitHub repository, but changes      don't appear to be saved *BACK* 
 6. **Binder** works pretty well, once you get it configured properly. 100% MY FAULT - I lurched around without RTFM ! :-) 
