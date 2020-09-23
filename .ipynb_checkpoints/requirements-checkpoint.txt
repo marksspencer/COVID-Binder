@@ -1,0 +1,4 @@
+# requirements for Python code
+
+pandas
+bokeh
